@@ -6,4 +6,4 @@ the concept of transfer learning of the tensorflow is gaining popularity ,and ye
 
 somehow I used anaconda environment for this project because it is easy to use it and install library through prompt makes everthing easy.
 
-the project having a video attached within so that you can see the performance of my model 
+the project having a video attached within so that you can see the performance of my model. 

@@ -7,3 +7,13 @@ the concept of transfer learning of the tensorflow is gaining popularity ,and ye
 somehow I used anaconda environment for this project because it is easy to use it and install library through prompt makes everthing easy.
 
 the project having a video attached within so that you can see the performance of my model. 
+
+Step 1 - download the tensorflow library 
+
+Step 2 - install the requirement given in file requirement.txt
+
+step 3 - goto this location in tnsorflow tensorflow\models\research\object_detection
+
+step 4 - open jupyter notebook(editor of your choice).
+
+step 5 - and rest the code is given.
